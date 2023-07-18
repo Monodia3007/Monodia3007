@@ -1,7 +1,8 @@
 # Heya, I'm Lilith
+*Or you can call me Monodia*
 
 ## About me
-- I study computer science
+- I am studying computer science
 - I am currently learning at the University of Lille, in France
 - I am French and British
 
@@ -24,11 +25,11 @@
 
 ## Current projects
 
-![Static Badge](https://img.shields.io/badge/Repo-WineStock-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FMonodia3007%2FWineStock)
-![Static Badge](https://img.shields.io/badge/Repo-LilithServerEssential-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FMonodia3007%2FLilithServerEssential)
+<a href="https://github.com/Monodia3007/WineStock">![Static Badge](https://img.shields.io/badge/Repo-WineStock-blue?style=for-the-badge)</a>
+<a href="https://github.com/Monodia3007/LilithServerEssential">![Static Badge](https://img.shields.io/badge/Repo-LilithServerEssential-blue?style=for-the-badge)</a>
 
 ---
 
 ## To contact me
-- ![Static Badge](https://img.shields.io/badge/LinkedIn%3A%20Pierre%20Camplin-0077B5?style=for-the-badge&logo=linkedin&color=1DA1F2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpierre-camplin-06502a270%2F)
-- ![Static Badge](https://img.shields.io/badge/gmail%3A%20pierre.camplin.pro-%2523EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red&link=mailto%3Apierre.camplin.pro%40gmail.com)
+<a href="https://www.linkedin.com/in/pierre-camplin-06502a270/">![Static Badge](https://img.shields.io/badge/LinkedIn%3A%20Pierre%20Camplin-0077B5?style=for-the-badge&logo=linkedin&color=1DA1F2)</a>
+<a href="mailto:pierre.camplin.pro@gmail.com">![Static Badge](https://img.shields.io/badge/gmail%3A%20pierre.camplin.pro-%2523EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red)</a>
