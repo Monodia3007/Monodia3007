@@ -26,6 +26,7 @@
 
 <a href="https://github.com/Monodia3007/WineStock">![Static Badge](https://img.shields.io/badge/Repo-WineStock-blue?style=for-the-badge)</a>
 <a href="https://github.com/Monodia3007/LilithServerEssential">![Static Badge](https://img.shields.io/badge/Repo-LilithServerEssential-blue?style=for-the-badge)</a>
+<a href="https://github.com/Monodia3007/DiaLogExtractor">![Static Badge](https://img.shields.io/badge/Repo-DiaLogExtractor-blue?style=for-the-badge)</a>
 
 ---
 
