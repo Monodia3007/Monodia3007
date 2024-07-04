@@ -31,5 +31,5 @@
 ---
 
 ## To contact me
-<a href="https://www.linkedin.com/in/pierre-camplin-06502a270/">![Static Badge](https://img.shields.io/badge/LinkedIn%3A%20Pierre%20Camplin-0077B5?style=for-the-badge&logo=linkedin&color=1DA1F2)</a>
-<a href="mailto:pierre.camplin@gmail.com">![Static Badge](https://img.shields.io/badge/gmail%3A%20pierre.camplin-%2523EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red)</a>
+<a href="https://www.linkedin/in/pierre-camplin-06502a270/">![Static Badge](https://img.shields.io/badge/LinkedIn%3A%20Lilith%20Camplin-0077B5?style=for-the-badge&logo=linkedin&color=1DA1F2)</a>
+<a href="mailto:lilith.camplin@gmail.com">![Static Badge](https://img.shields.io/badge/gmail%3A%20lilith.camplin-%2523EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red)</a>
