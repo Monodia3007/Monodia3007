@@ -1,4 +1,4 @@
-# Heya, I'm Monodia
+# Heya, I'm Lilith
 
 ## About me
 - I am studying computer science
