@@ -2,7 +2,7 @@
 
 ## About me
 - I am studying computer science
-- I am currently learning at the University of Lille, in France
+- I am currently learning at the University of Suffolk, in the UK
 - I am French and British
 
 ---
